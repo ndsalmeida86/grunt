@@ -1,4 +1,4 @@
-# Grunt Concat task Runner
+# Grunt Concat Task Runner
 
 ## Standard CSS Files
 - css/main.css
